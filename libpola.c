@@ -80,7 +80,6 @@ void log_sys (const char* pathname)
  * Possible answers to the access requests are
  *    - Y to accept a request
  *    - N to deny a request
- *    - R to always accept a request
  *
  * @param pathname Path to the file to open
  * @param flags Flags to open the file with
